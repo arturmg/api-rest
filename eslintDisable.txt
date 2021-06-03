@@ -1,0 +1,4 @@
+Para desabilitar o eslint na próxima linha
+// eslint-disable-next-line
+
+Para desabilitar o eslint na linha atual (escrever ao final da linha)

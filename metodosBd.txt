@@ -1,0 +1,5 @@
+INDEX         -> Lista todos os registros -> GET
+STORE/CREATE  -> Cria um registros -> POST
+DELETE        -> Apaga um registro -> DELETE
+UPDATE        -> Atualiza um registro -> GET
+SHOW          -> Mostra um registro -> PATCH ou PUT
